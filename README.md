@@ -1,6 +1,6 @@
 # Welcome to the Beginner Python Curriculum!
 
-## Over 20 hours, you’ll learn Python through fun, interactive projects. You’ll create games like Rock-Paper-Scissors, Hangman, and a Turtle Race, all while mastering important programming concepts.
+## Over 20 hours, you’ll learn Python through fun, interactive projects. You’ll create games like Rock-Paper-Scissors, Hangman, and a Turtle Race, all while mastering important programming concepts!
 
 
 Session 1-  Lesson 1 - Python Basics <br>
